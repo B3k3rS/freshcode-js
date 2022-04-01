@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+.black-text {
+    color: #000;
+}
+
+.white-text {
+    color: #fff
+}
+
+.black-bg {
+    background: #000;
+}
+
+.white-bg {
+    background: #fff;
+}
+
+body {
+    font-size: 20px;
+    text-align: center;
+}
+
+p {
+    margin-top: 20px;
+}
